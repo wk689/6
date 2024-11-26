@@ -1,0 +1,3 @@
+﻿#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2084544
+01.m3u8?msisdn=d6b272863d03aa773a6059b666a9bbe2&mdspid=&spid=699004&netType=4&sid=5500346945&pid=2028597139&timestamp=20241126162112&Channel_ID=0116_2604022500-99000-200300020100001&ProgramID=631780532&ParentNodeID=-99&assertID=5500346945&client_ip=223.109.116.19&SecurityKey=20241126162112&promotionId=&mvid=5101064231&mcid=500020&playurlVersion=ZQ-A1-7.11.2-RELEASE&userid=1319657253&jmhm=d6b272863d03aa773a6059b666a9bbe2&videocodec=h264&tid=ios&conFee=0&mtv_session=e78cd59e7468b32ad02d47cf1eaca317&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=35b7af4d6ce6d9673788a7f7653c0614
